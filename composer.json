@@ -1,0 +1,19 @@
+{
+    "name": "sevenspan/bunnynet",
+    "description": "Use for connecting bunnynet api",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sevenspan\\Bunnynet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Trushal Thummarom",
+            "email": "trushal@7span.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
